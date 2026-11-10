@@ -1,0 +1,182 @@
+Matplotlib is building the font cache; this may take a moment.
+mirai        seed=0 Offline-AADRNN           TPR=0.9743 TNR=1.0000 AUC=0.9993 0.2us/pkt
+mirai        seed=0 Incremental-AADRNN       TPR=0.0000 TNR=1.0000 AUC=0.9974 4.6us/pkt
+mirai        seed=0 Offline-KNN              TPR=0.9995 TNR=0.6874 AUC=0.9997 1.0us/pkt
+mirai        seed=0 Offline-IForest          TPR=0.0000 TNR=0.9977 AUC=0.9961 1.8us/pkt
+mirai        seed=0 SSID-AADRNN (paper)      TPR=0.9859 TNR=0.9999 AUC=0.9996 4.7us/pkt
+mirai        seed=0 SSID-MLP (paper)         TPR=0.9925 TNR=0.9999 AUC=0.9998 12.7us/pkt
+mirai        seed=0 SSID+ (ours)             TPR=0.9940 TNR=0.9999 AUC=0.9996 31.5us/pkt
+mirai        seed=1 Offline-AADRNN           TPR=0.9021 TNR=1.0000 AUC=0.9996 0.2us/pkt
+mirai        seed=1 Incremental-AADRNN       TPR=0.0000 TNR=1.0000 AUC=0.9665 4.6us/pkt
+mirai        seed=1 Offline-KNN              TPR=1.0000 TNR=0.6783 AUC=0.9999 1.2us/pkt
+mirai        seed=1 Offline-IForest          TPR=0.9993 TNR=0.9625 AUC=0.9998 1.8us/pkt
+mirai        seed=1 SSID-AADRNN (paper)      TPR=0.9926 TNR=0.9998 AUC=0.9998 5.0us/pkt
+mirai        seed=1 SSID-MLP (paper)         TPR=0.9915 TNR=0.9998 AUC=0.9997 13.4us/pkt
+mirai        seed=1 SSID+ (ours)             TPR=0.9950 TNR=0.9998 AUC=0.9998 33.5us/pkt
+mirai        seed=2 Offline-AADRNN           TPR=0.9874 TNR=1.0000 AUC=0.9996 0.2us/pkt
+mirai        seed=2 Incremental-AADRNN       TPR=0.0000 TNR=1.0000 AUC=0.8940 6.2us/pkt
+mirai        seed=2 Offline-KNN              TPR=0.9999 TNR=0.7455 AUC=0.9999 1.5us/pkt
+mirai        seed=2 Offline-IForest          TPR=0.9992 TNR=0.9695 AUC=0.9998 1.8us/pkt
+mirai        seed=2 SSID-AADRNN (paper)      TPR=0.9868 TNR=0.9998 AUC=0.9995 4.7us/pkt
+mirai        seed=2 SSID-MLP (paper)         TPR=0.9895 TNR=0.9998 AUC=0.9990 13.7us/pkt
+mirai        seed=2 SSID+ (ours)             TPR=0.9935 TNR=0.9998 AUC=0.9993 30.2us/pkt
+mirai        seed=3 Offline-AADRNN           TPR=0.9870 TNR=1.0000 AUC=0.9999 0.2us/pkt
+mirai        seed=3 Incremental-AADRNN       TPR=0.0006 TNR=1.0000 AUC=0.9991 4.8us/pkt
+mirai        seed=3 Offline-KNN              TPR=1.0000 TNR=0.6236 AUC=1.0000 0.7us/pkt
+mirai        seed=3 Offline-IForest          TPR=0.9993 TNR=0.9578 AUC=0.9999 1.8us/pkt
+mirai        seed=3 SSID-AADRNN (paper)      TPR=0.9926 TNR=0.9998 AUC=0.9999 4.7us/pkt
+mirai        seed=3 SSID-MLP (paper)         TPR=0.9921 TNR=0.9998 AUC=0.9998 13.2us/pkt
+mirai        seed=3 SSID+ (ours)             TPR=0.9958 TNR=0.9998 AUC=0.9999 91.3us/pkt
+mirai        seed=4 Offline-AADRNN           TPR=0.0000 TNR=1.0000 AUC=0.9996 0.2us/pkt
+mirai        seed=4 Incremental-AADRNN       TPR=0.0000 TNR=1.0000 AUC=0.9934 4.6us/pkt
+mirai        seed=4 Offline-KNN              TPR=1.0000 TNR=0.7056 AUC=0.9999 0.8us/pkt
+mirai        seed=4 Offline-IForest          TPR=0.9982 TNR=0.9976 AUC=0.9999 1.7us/pkt
+mirai        seed=4 SSID-AADRNN (paper)      TPR=0.9923 TNR=0.9998 AUC=0.9996 4.6us/pkt
+mirai        seed=4 SSID-MLP (paper)         TPR=0.9923 TNR=0.9998 AUC=0.9996 12.8us/pkt
+mirai        seed=4 SSID+ (ours)             TPR=0.9947 TNR=0.9998 AUC=0.9998 31.9us/pkt
+mirai_drift  seed=0 Offline-AADRNN           TPR=0.9585 TNR=1.0000 AUC=0.9995 0.1us/pkt
+mirai_drift  seed=0 Incremental-AADRNN       TPR=0.0000 TNR=1.0000 AUC=0.7676 4.6us/pkt
+mirai_drift  seed=0 Offline-KNN              TPR=1.0000 TNR=0.3444 AUC=0.9996 0.9us/pkt
+mirai_drift  seed=0 Offline-IForest          TPR=0.0033 TNR=0.4050 AUC=0.3999 1.6us/pkt
+mirai_drift  seed=0 SSID-AADRNN (paper)      TPR=0.9803 TNR=0.9999 AUC=0.9987 14.9us/pkt
+mirai_drift  seed=0 SSID-MLP (paper)         TPR=0.9862 TNR=0.9999 AUC=0.9988 12.3us/pkt
+mirai_drift  seed=0 SSID+ (ours)             TPR=0.9954 TNR=0.9999 AUC=0.9997 94.0us/pkt
+mirai_drift  seed=1 Offline-AADRNN           TPR=0.9460 TNR=1.0000 AUC=0.9999 0.1us/pkt
+mirai_drift  seed=1 Incremental-AADRNN       TPR=0.0075 TNR=1.0000 AUC=0.9964 4.5us/pkt
+mirai_drift  seed=1 Offline-KNN              TPR=1.0000 TNR=0.3307 AUC=0.9997 1.5us/pkt
+mirai_drift  seed=1 Offline-IForest          TPR=0.9994 TNR=0.3906 AUC=0.9986 1.6us/pkt
+mirai_drift  seed=1 SSID-AADRNN (paper)      TPR=0.9590 TNR=0.9999 AUC=0.9993 17.1us/pkt
+mirai_drift  seed=1 SSID-MLP (paper)         TPR=0.9817 TNR=0.9999 AUC=0.9991 12.5us/pkt
+mirai_drift  seed=1 SSID+ (ours)             TPR=0.9969 TNR=0.9999 AUC=0.9994 88.7us/pkt
+mirai_drift  seed=2 Offline-AADRNN           TPR=0.9810 TNR=1.0000 AUC=0.9992 0.1us/pkt
+mirai_drift  seed=2 Incremental-AADRNN       TPR=0.0032 TNR=1.0000 AUC=0.9924 4.5us/pkt
+mirai_drift  seed=2 Offline-KNN              TPR=1.0000 TNR=0.3848 AUC=0.9992 2.0us/pkt
+mirai_drift  seed=2 Offline-IForest          TPR=1.0000 TNR=0.3958 AUC=0.9981 1.6us/pkt
+mirai_drift  seed=2 SSID-AADRNN (paper)      TPR=0.9911 TNR=0.9998 AUC=0.9992 14.9us/pkt
+mirai_drift  seed=2 SSID-MLP (paper)         TPR=0.9911 TNR=0.9998 AUC=0.9989 15.2us/pkt
+mirai_drift  seed=2 SSID+ (ours)             TPR=0.9961 TNR=0.9998 AUC=0.9994 89.1us/pkt
+mirai_drift  seed=3 Offline-AADRNN           TPR=0.9804 TNR=1.0000 AUC=0.9993 0.1us/pkt
+mirai_drift  seed=3 Incremental-AADRNN       TPR=0.0000 TNR=1.0000 AUC=0.9617 4.6us/pkt
+mirai_drift  seed=3 Offline-KNN              TPR=1.0000 TNR=0.3614 AUC=0.9997 1.8us/pkt
+mirai_drift  seed=3 Offline-IForest          TPR=0.9987 TNR=0.4071 AUC=0.9988 1.5us/pkt
+mirai_drift  seed=3 SSID-AADRNN (paper)      TPR=0.9526 TNR=0.9999 AUC=0.9995 14.8us/pkt
+mirai_drift  seed=3 SSID-MLP (paper)         TPR=0.9807 TNR=0.9999 AUC=0.9989 12.7us/pkt
+mirai_drift  seed=3 SSID+ (ours)             TPR=0.9970 TNR=0.9999 AUC=0.9996 89.4us/pkt
+mirai_drift  seed=4 Offline-AADRNN           TPR=0.0000 TNR=1.0000 AUC=0.9988 0.1us/pkt
+mirai_drift  seed=4 Incremental-AADRNN       TPR=0.0000 TNR=1.0000 AUC=0.8277 4.6us/pkt
+mirai_drift  seed=4 Offline-KNN              TPR=1.0000 TNR=0.3360 AUC=0.9997 1.5us/pkt
+mirai_drift  seed=4 Offline-IForest          TPR=0.9983 TNR=0.3779 AUC=0.3824 1.5us/pkt
+mirai_drift  seed=4 SSID-AADRNN (paper)      TPR=0.9599 TNR=0.9999 AUC=0.9987 13.9us/pkt
+mirai_drift  seed=4 SSID-MLP (paper)         TPR=0.9634 TNR=0.9999 AUC=0.9984 12.3us/pkt
+mirai_drift  seed=4 SSID+ (ours)             TPR=0.9967 TNR=0.9999 AUC=0.9997 92.0us/pkt
+slow_ramp    seed=0 Offline-AADRNN           TPR=0.5235 TNR=1.0000 AUC=0.9984 0.2us/pkt
+slow_ramp    seed=0 Incremental-AADRNN       TPR=0.0000 TNR=1.0000 AUC=0.9999 4.8us/pkt
+slow_ramp    seed=0 Offline-KNN              TPR=1.0000 TNR=0.3444 AUC=0.9986 1.0us/pkt
+slow_ramp    seed=0 Offline-IForest          TPR=0.0181 TNR=0.4050 AUC=0.4059 1.9us/pkt
+slow_ramp    seed=0 SSID-AADRNN (paper)      TPR=0.0000 TNR=0.9999 AUC=0.8080 50.1us/pkt
+slow_ramp    seed=0 SSID-MLP (paper)         TPR=0.0000 TNR=0.9999 AUC=0.7244 19.1us/pkt
+slow_ramp    seed=0 SSID+ (ours)             TPR=0.9800 TNR=0.9999 AUC=0.9996 109.7us/pkt
+slow_ramp    seed=0 SSID + gate              TPR=0.0000 TNR=0.9999 AUC=0.9967 118.7us/pkt
+slow_ramp    seed=0 SSID + adaptive-gamma    TPR=0.9542 TNR=0.9999 AUC=0.9966 20.8us/pkt
+slow_ramp    seed=0 SSID + JS-rep            TPR=0.0000 TNR=0.9999 AUC=0.9943 68.3us/pkt
+slow_ramp    seed=0 SSID + unbiased-kappa    TPR=0.0000 TNR=0.9999 AUC=0.8080 44.6us/pkt
+slow_ramp    seed=0 SSID + forgetting        TPR=0.0000 TNR=0.9999 AUC=0.8071 55.7us/pkt
+slow_ramp    seed=1 Offline-AADRNN           TPR=0.6034 TNR=1.0000 AUC=0.9999 0.2us/pkt
+slow_ramp    seed=1 Incremental-AADRNN       TPR=0.0000 TNR=1.0000 AUC=0.9997 4.6us/pkt
+slow_ramp    seed=1 Offline-KNN              TPR=1.0000 TNR=0.3307 AUC=0.9996 1.5us/pkt
+slow_ramp    seed=1 Offline-IForest          TPR=0.9905 TNR=0.3906 AUC=0.9862 2.6us/pkt
+slow_ramp    seed=1 SSID-AADRNN (paper)      TPR=0.0000 TNR=0.9999 AUC=0.7387 54.3us/pkt
+slow_ramp    seed=1 SSID-MLP (paper)         TPR=0.0000 TNR=0.9999 AUC=0.5743 19.3us/pkt
+slow_ramp    seed=1 SSID+ (ours)             TPR=0.9848 TNR=0.9999 AUC=0.9989 104.1us/pkt
+slow_ramp    seed=1 SSID + gate              TPR=0.0000 TNR=0.9999 AUC=0.9971 127.8us/pkt
+slow_ramp    seed=1 SSID + adaptive-gamma    TPR=0.9208 TNR=0.9999 AUC=0.9977 21.4us/pkt
+slow_ramp    seed=1 SSID + JS-rep            TPR=0.0000 TNR=0.9999 AUC=0.6561 106.8us/pkt
+slow_ramp    seed=1 SSID + unbiased-kappa    TPR=0.7955 TNR=0.9999 AUC=0.9983 22.5us/pkt
+slow_ramp    seed=1 SSID + forgetting        TPR=0.0000 TNR=0.9999 AUC=0.7405 52.4us/pkt
+slow_ramp    seed=2 Offline-AADRNN           TPR=0.7176 TNR=1.0000 AUC=0.9997 0.2us/pkt
+slow_ramp    seed=2 Incremental-AADRNN       TPR=0.0000 TNR=1.0000 AUC=0.9993 4.8us/pkt
+slow_ramp    seed=2 Offline-KNN              TPR=1.0000 TNR=0.3848 AUC=0.9996 1.9us/pkt
+slow_ramp    seed=2 Offline-IForest          TPR=1.0000 TNR=0.3958 AUC=0.9788 2.3us/pkt
+slow_ramp    seed=2 SSID-AADRNN (paper)      TPR=0.0088 TNR=0.9998 AUC=0.9915 22.1us/pkt
+slow_ramp    seed=2 SSID-MLP (paper)         TPR=0.0127 TNR=0.9998 AUC=0.5601 19.6us/pkt
+slow_ramp    seed=2 SSID+ (ours)             TPR=0.9877 TNR=0.9998 AUC=0.9995 102.8us/pkt
+slow_ramp    seed=2 SSID + gate              TPR=0.7838 TNR=0.9998 AUC=0.9986 101.3us/pkt
+slow_ramp    seed=2 SSID + adaptive-gamma    TPR=0.9784 TNR=0.9998 AUC=0.9985 20.2us/pkt
+slow_ramp    seed=2 SSID + JS-rep            TPR=0.0000 TNR=0.9998 AUC=0.9993 49.8us/pkt
+slow_ramp    seed=2 SSID + unbiased-kappa    TPR=0.0088 TNR=0.9998 AUC=0.9915 21.6us/pkt
+slow_ramp    seed=2 SSID + forgetting        TPR=0.0090 TNR=0.9998 AUC=0.9972 36.7us/pkt
+slow_ramp    seed=3 Offline-AADRNN           TPR=0.7167 TNR=1.0000 AUC=0.9985 0.3us/pkt
+slow_ramp    seed=3 Incremental-AADRNN       TPR=0.0000 TNR=1.0000 AUC=0.9987 4.8us/pkt
+slow_ramp    seed=3 Offline-KNN              TPR=1.0000 TNR=0.3614 AUC=0.9997 1.9us/pkt
+slow_ramp    seed=3 Offline-IForest          TPR=0.9899 TNR=0.4071 AUC=0.9879 2.0us/pkt
+slow_ramp    seed=3 SSID-AADRNN (paper)      TPR=0.0000 TNR=0.9999 AUC=0.9932 47.7us/pkt
+slow_ramp    seed=3 SSID-MLP (paper)         TPR=0.0000 TNR=0.9999 AUC=0.6771 18.1us/pkt
+slow_ramp    seed=3 SSID+ (ours)             TPR=0.9917 TNR=0.9999 AUC=0.9995 100.7us/pkt
+slow_ramp    seed=3 SSID + gate              TPR=0.4721 TNR=0.9999 AUC=0.9991 104.9us/pkt
+slow_ramp    seed=3 SSID + adaptive-gamma    TPR=0.9847 TNR=0.9999 AUC=0.9991 20.3us/pkt
+slow_ramp    seed=3 SSID + JS-rep            TPR=0.0000 TNR=0.9999 AUC=0.9994 49.2us/pkt
+slow_ramp    seed=3 SSID + unbiased-kappa    TPR=0.0000 TNR=0.9999 AUC=0.9932 48.3us/pkt
+slow_ramp    seed=3 SSID + forgetting        TPR=0.0000 TNR=0.9999 AUC=0.9910 48.2us/pkt
+slow_ramp    seed=4 Offline-AADRNN           TPR=0.0000 TNR=1.0000 AUC=0.9957 0.2us/pkt
+slow_ramp    seed=4 Incremental-AADRNN       TPR=0.0000 TNR=1.0000 AUC=0.9992 4.8us/pkt
+slow_ramp    seed=4 Offline-KNN              TPR=1.0000 TNR=0.3360 AUC=0.9993 1.5us/pkt
+slow_ramp    seed=4 Offline-IForest          TPR=0.9643 TNR=0.3779 AUC=0.3867 2.0us/pkt
+slow_ramp    seed=4 SSID-AADRNN (paper)      TPR=0.0000 TNR=0.9999 AUC=0.9525 46.8us/pkt
+slow_ramp    seed=4 SSID-MLP (paper)         TPR=0.0000 TNR=0.9999 AUC=0.7499 17.1us/pkt
+slow_ramp    seed=4 SSID+ (ours)             TPR=0.9806 TNR=0.9999 AUC=0.9992 102.0us/pkt
+slow_ramp    seed=4 SSID + gate              TPR=0.4668 TNR=0.9999 AUC=0.9957 104.4us/pkt
+slow_ramp    seed=4 SSID + adaptive-gamma    TPR=0.9458 TNR=0.9999 AUC=0.9941 18.5us/pkt
+slow_ramp    seed=4 SSID + JS-rep            TPR=0.0000 TNR=0.9999 AUC=0.9983 92.3us/pkt
+slow_ramp    seed=4 SSID + unbiased-kappa    TPR=0.0000 TNR=0.9999 AUC=0.9549 33.1us/pkt
+slow_ramp    seed=4 SSID + forgetting        TPR=0.0000 TNR=0.9999 AUC=0.9428 45.4us/pkt
+
+### Scenario: mirai  (mean ± std over 5 seed(s))
+
+| Method | TPR | TNR | BalAcc | AUC | FPR_P2 | learned | us_per_pkt |
+|---|---|---|---|---|---|---|---|
+| Offline-AADRNN | 0.7701 ± 0.3864 | 1.0000 ± 0.0000 | 0.8851 ± 0.1932 | 0.9996 ± 0.0002 | 0.0000 ± 0.0000 | - | 0.2 |
+| Incremental-AADRNN | 0.0001 ± 0.0002 | 1.0000 ± 0.0000 | 0.5001 ± 0.0001 | 0.9701 ± 0.0398 | 0.0000 ± 0.0000 | - | 5.0 |
+| Offline-KNN | 0.9999 ± 0.0002 | 0.6881 ± 0.0396 | 0.8440 ± 0.0198 | 0.9999 ± 0.0001 | 0.5340 ± 0.0691 | - | 1.1 |
+| Offline-IForest | 0.7992 ± 0.3996 | 0.9770 ± 0.0173 | 0.8881 ± 0.1947 | 0.9991 ± 0.0015 | 0.0395 ± 0.0330 | - | 1.8 |
+| SSID-AADRNN (paper) | 0.9900 ± 0.0030 | 0.9998 ± 0.0000 | 0.9949 ± 0.0015 | 0.9997 ± 0.0001 | 0.0000 ± 0.0000 | 519 | 4.7 |
+| SSID-MLP (paper) | 0.9916 ± 0.0011 | 0.9998 ± 0.0000 | 0.9957 ± 0.0006 | 0.9996 ± 0.0003 | 0.0000 ± 0.0000 | 525 | 13.2 |
+| SSID+ (ours) | 0.9946 ± 0.0008 | 0.9998 ± 0.0000 | 0.9972 ± 0.0004 | 0.9997 ± 0.0002 | 0.0000 ± 0.0000 | 1505 | 43.7 |
+
+### Scenario: mirai_drift  (mean ± std over 5 seed(s))
+
+| Method | TPR | TNR | BalAcc | AUC | FPR_P2 | learned | us_per_pkt |
+|---|---|---|---|---|---|---|---|
+| Offline-AADRNN | 0.7732 ± 0.3868 | 1.0000 ± 0.0000 | 0.8866 ± 0.1934 | 0.9993 ± 0.0004 | 0.0000 ± 0.0000 | - | 0.1 |
+| Incremental-AADRNN | 0.0022 ± 0.0030 | 1.0000 ± 0.0000 | 0.5011 ± 0.0015 | 0.9092 ± 0.0938 | 0.0000 ± 0.0000 | - | 4.6 |
+| Offline-KNN | 1.0000 ± 0.0000 | 0.3515 ± 0.0197 | 0.6757 ± 0.0098 | 0.9996 ± 0.0002 | 0.9937 ± 0.0070 | - | 1.5 |
+| Offline-IForest | 0.7999 ± 0.3983 | 0.3953 ± 0.0106 | 0.5976 ± 0.1968 | 0.7556 ± 0.2976 | 0.9627 ± 0.0092 | - | 1.6 |
+| SSID-AADRNN (paper) | 0.9686 ± 0.0146 | 0.9999 ± 0.0000 | 0.9842 ± 0.0073 | 0.9991 ± 0.0003 | 0.0000 ± 0.0000 | 5519 | 15.1 |
+| SSID-MLP (paper) | 0.9806 ± 0.0094 | 0.9999 ± 0.0000 | 0.9902 ± 0.0047 | 0.9988 ± 0.0002 | 0.0000 ± 0.0000 | 5525 | 13.0 |
+| SSID+ (ours) | 0.9964 ± 0.0006 | 0.9999 ± 0.0000 | 0.9981 ± 0.0003 | 0.9996 ± 0.0001 | 0.0000 ± 0.0000 | 5505 | 90.7 |
+
+### Scenario: slow_ramp  (mean ± std over 5 seed(s))
+
+| Method | TPR | TNR | BalAcc | AUC | FPR_P2 | learned | us_per_pkt |
+|---|---|---|---|---|---|---|---|
+| Offline-AADRNN | 0.5122 ± 0.2664 | 1.0000 ± 0.0000 | 0.7561 ± 0.1332 | 0.9984 ± 0.0015 | 0.0000 ± 0.0000 | - | 0.2 |
+| Incremental-AADRNN | 0.0000 ± 0.0000 | 1.0000 ± 0.0000 | 0.5000 ± 0.0000 | 0.9993 ± 0.0004 | 0.0000 ± 0.0000 | - | 4.7 |
+| Offline-KNN | 1.0000 ± 0.0000 | 0.3515 ± 0.0197 | 0.6757 ± 0.0098 | 0.9994 ± 0.0004 | 0.9937 ± 0.0070 | - | 1.6 |
+| Offline-IForest | 0.7925 ± 0.3874 | 0.3953 ± 0.0106 | 0.5939 ± 0.1915 | 0.7491 ± 0.2881 | 0.9627 ± 0.0092 | - | 2.2 |
+| SSID-AADRNN (paper) | 0.0018 ± 0.0035 | 0.9999 ± 0.0000 | 0.5008 ± 0.0018 | 0.8968 ± 0.1041 | 0.0000 ± 0.0000 | 18864 | 44.2 |
+| SSID-MLP (paper) | 0.0025 ± 0.0051 | 0.9999 ± 0.0000 | 0.5012 ± 0.0025 | 0.6571 ± 0.0772 | 0.0000 ± 0.0000 | 15084 | 18.7 |
+| SSID+ (ours) | 0.9850 ± 0.0044 | 0.9999 ± 0.0000 | 0.9924 ± 0.0022 | 0.9994 ± 0.0003 | 0.0000 ± 0.0000 | 5505 | 103.9 |
+| SSID + gate | 0.3445 ± 0.3038 | 0.9999 ± 0.0000 | 0.6722 ± 0.1519 | 0.9974 ± 0.0012 | 0.0000 ± 0.0000 | 8937 | 111.4 |
+| SSID + adaptive-gamma | 0.9568 ± 0.0231 | 0.9999 ± 0.0000 | 0.9783 ± 0.0115 | 0.9972 ± 0.0018 | 0.0000 ± 0.0000 | 5519 | 20.2 |
+| SSID + JS-rep | 0.0000 ± 0.0000 | 0.9999 ± 0.0000 | 0.4999 ± 0.0000 | 0.9295 ± 0.1367 | 0.0000 ± 0.0000 | 34148 | 73.3 |
+| SSID + unbiased-kappa | 0.1609 ± 0.3173 | 0.9999 ± 0.0000 | 0.5804 ± 0.1587 | 0.9492 ± 0.0723 | 0.0000 ± 0.0000 | 21190 | 34.0 |
+| SSID + forgetting | 0.0018 ± 0.0036 | 0.9999 ± 0.0000 | 0.5008 ± 0.0018 | 0.8957 ± 0.1035 | 0.0000 ± 0.0000 | 16094 | 47.7 |
+
+sensitivity theta=0.9 gamma=0.1 BalAcc=0.8874
+sensitivity theta=0.9 gamma=0.25 BalAcc=0.8845
+sensitivity theta=0.9 gamma=0.4 BalAcc=0.5582
+sensitivity theta=0.95 gamma=0.1 BalAcc=0.9978
+sensitivity theta=0.95 gamma=0.25 BalAcc=0.9883
+sensitivity theta=0.95 gamma=0.4 BalAcc=0.5000
+sensitivity theta=0.98 gamma=0.1 BalAcc=0.8937
+sensitivity theta=0.98 gamma=0.25 BalAcc=0.8888
+sensitivity theta=0.98 gamma=0.4 BalAcc=0.5621
